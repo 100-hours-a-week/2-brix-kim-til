@@ -4,7 +4,7 @@
 
 ### [1월 마지막주, 1주차] : Github
 
-25.01.30 Github해보기 ([상세 내역 링크]())
+25.01.30 Github해보기 ([상세 내역 링크](https://github.com/thplus/brix-til/blob/main/Jan/2025-01-30.md))
 
 ### [n월 n째주, n주차] : 간략 주제 작성 
 
