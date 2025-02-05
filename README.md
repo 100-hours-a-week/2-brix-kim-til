@@ -10,6 +10,7 @@
 
 - 25.02.03 1주차 내용 복습 ([상세 내역 링크](https://github.com/thplus/brix-til/blob/main/Feb/2025-02-03.md))
 - 25.02.04 NumPy, Pandas 내용 정리 ([상세 내역 링크](https://github.com/thplus/brix-til/blob/main/Feb/2025-02-04.md))
+- 25.02.05 NumPy 심화학습 내용 정리 ([상세 내역 링크](https://github.com/thplus/brix-til/blob/main/Feb/2025-02-05.md))
 
 ### [n월 n째주, n주차] : 간략 주제 작성 
 
